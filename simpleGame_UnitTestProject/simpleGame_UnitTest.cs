@@ -11,6 +11,7 @@ namespace simpleGame_UnitTestProject
 
 
         // Test case of spin button based on boundary value analysis
+
         [TestMethod]
         public void Test_spin_bva1()
             {
